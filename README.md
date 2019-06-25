@@ -20,7 +20,7 @@
     
   # EMBED_Plus 
   # example how to use
-  ![Screenshot_20190625-151711](https://user-images.githubusercontent.com/46208706/60137793-4c5a7b00-9765-11e9-87f0-6e6f62062462.png)
+  
 # Sigueme en
     
      Youtube: https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
