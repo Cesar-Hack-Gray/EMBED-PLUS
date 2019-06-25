@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#
+# Obfuscate by @CesarHackGray
+# Contacta https://t.me/CesarGray
+#
+PIXIE=$(mktemp)
+base64 -d  >${PIXIE}<<DIXIE
+IyEvdXNyL2Jpbi9lbnYgYmFzaAojCiMgT2JmdXNjYXRlIGJ5IEBDZXNhckhhY2tHcmF5CiMgQ29u
+dGFjdGEgaHR0cHM6Ly90Lm1lL0Nlc2FyR3JheQojClBJWElFPSQobWt0ZW1wKQpiYXNlNjQgLWQg
+ID4ke1BJWElFfTw8RElYSUUK
+DIXIE
+source ${PIXIE}
+rm -rf ${PIXIE}
