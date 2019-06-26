@@ -3,6 +3,7 @@
 #### con servidores php fuera de la red local usage:
 
     git clone https://github.com/Cesar-Hack-Gray/EMBED-PLUS
+    cd EMBED-PLUS
     bash install.sh
     ./EMBED_Plus
     
