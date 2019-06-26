@@ -35,3 +35,7 @@
 
 # Example
 ![Screenshot_20190624-185028~01](https://user-images.githubusercontent.com/46208706/60137981-eb7f7280-9765-11e9-80b9-305d6c460fa8.png)
+
+#### What is EMBED-Plus
+
+   EMBED PLUS is a framework that allows hacking outside the local network together with serveo.net, this facilitates the work of a hacking of an Android with a legitimate application as a gallery and send it to the victim to install it and us from EMBED- Plus we get access to the phone, remember I am not responsible for the misuse of this tool, Created by @CesarHackGray
