@@ -1,6 +1,6 @@
 # EMBED-PLUS Framework
 # EMBED Plus hackea fuera de la red infectado apks legitimas
-#### con servidores php fuera de la red local usage:
+#### con servidores php fuera de la red local, how to install:
 
     git clone https://github.com/Cesar-Hack-Gray/EMBED-PLUS
     cd EMBED-PLUS
@@ -11,6 +11,7 @@
 
  # Requisitos : openssh, php, apktool
  #### Contacta https://t.me/CesarGray
+ # Eye
  
  
     EMBED_Plus se instala en
@@ -22,6 +23,11 @@
   # EMBED_Plus 
   # example how to use
   
+  
+     Created by @CesarHackGray 
+     Creado el 23 de junio del 2019
+     Dedicado al grupo Cesar Hack Gray
+     
 # Sigueme en
     
      Youtube: https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
