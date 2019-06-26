@@ -9,7 +9,7 @@
     
   ![Screenshot_20190625-161746~01](https://user-images.githubusercontent.com/46208706/60137733-20d79080-9765-11e9-8a1e-3ab8059abad9.png)
 
- # Requisitos : openssh, php, apktool
+ # Requisitos : openssh, php, apktool, metasploit-framework
  #### Contacta https://t.me/CesarGray
  # Eye
  
