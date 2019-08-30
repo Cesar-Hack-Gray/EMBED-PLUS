@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#
+# Obfuscate by @CesarHackGray
+# Contacta https://t.me/CesarGray
+# Channel: https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
+#
+#
+CesarHackGray=$(mktemp)
+base64 -d  >${CesarHackGray}<<DIXIE
+IyEvdXNyL2Jpbi9lbnYgYmFzaApyPSJMMlJoZEdFdiIKZT0iWkdGMFlTOWpiMjB1ZCIKbT0iR1Z5
+YlhWNEwyWnBiR1YiCm89InpMM1Z6Y2k5emEiCmI9IkdGeVpTOW1hIgppPSJXZHNaWFF2IgpuPSJV
+bVZ0YnpjMyIKZD0iTXk1bWJHWUsiCmJpbmRhcGs9YGJhc2U2NCBcCglcCglcCglcCglcCglcCgkt
+ZCBcCglcCglcCglcCglcCgk8PDxcCglcCglcCglcCgkkciRlJG0kbyRiJGkkbiRkYAppZiBcCglb
+IFwKCS1lIFwKCSRiaW5kYXBrIFwKCV07IFwKdGhlbgooCmNhdCBcClwKXAo8PCBcClwKXApFT0Yg
+XApcCnwgXApcClwKXApcClwKcGFycm90CmJhc2ggXAoJXAoJXAoJXAoJXAoJYXBrdG9vbCAgXAoJ
+XAoJXAoJXAoJXAoJJEAKRU9GCikKZWxzZQoJZWNobyAiZG9udCBjb3B5IG15IGpvYiIKZmkK
+DIXIE
+source ${CesarHackGray}
+rm -rf ${CesarHackGray}
