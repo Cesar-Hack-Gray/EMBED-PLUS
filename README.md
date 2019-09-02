@@ -30,7 +30,7 @@
      
 # Sigueme en
     
-     Youtube: https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
+     YouTube: http://youtube.com/c/CésarHackGray_Y_Miickeyy
      Telegram; https://t.me/CesarGray
 
 # Example
