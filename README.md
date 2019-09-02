@@ -14,10 +14,10 @@
  # Eye
  
  
-    EMBED_Plus se instala en
+    EMBED_Plus in
     kali linux (pc)
     kali nethunter (termux)
-    termux (32 bits) 64 not soported
+    termux
     UserLand 
     
   # EMBED_Plus 
